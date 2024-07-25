@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves analyzing simple real estate data using Excel. The aim is to provide insights into property values, trends, and other key metrics. The analysis includes data cleaning, summarization, visualization, and potentially predictive analytics.
+This project involves analyzing simple real estate data using Excel. The aim is to provide insights into property values, trends, and other key metrics. The analysis includes data cleaning, summarization, and visualization.
 
 ## File Description
 
