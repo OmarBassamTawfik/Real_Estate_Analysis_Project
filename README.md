@@ -9,8 +9,8 @@ This project involves analyzing simple real estate data using Excel. The aim is 
 ### Real Estate.xlsx
 
 The primary dataset used in this project. It contains the following sheets:
-- **Dashboard**: Contains interactive visualizations and summaries of the real estate data.
-- **Tables**: Includes various tables summarizing the data, possibly used in the dashboard for visualization.
+- **Dashboard**: Contains visualizations and summaries of the real estate data.
+- **Tables**: Includes various tables summarizing the data used in the dashboard for visualization.
 - **Data**: The raw data sheet containing detailed real estate information.
 
 ## Analysis Steps
