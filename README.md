@@ -1,4 +1,4 @@
-# Real Estate Analysis Project
+# Real Estate Analysis
 
 ## Overview
 
@@ -40,7 +40,3 @@ The primary dataset used in this project. It contains the following sheets:
 
 - Summary of key findings from the analysis
 - Notable trends and insights
-
-## Contact
-
-For any questions or feedback, please contact me at omarbassamtawfik@outlook.com
